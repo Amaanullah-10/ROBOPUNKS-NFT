@@ -1,3 +1,25 @@
+      A ROBOPUNKS NFT MINT WEB3 APP 
+   
+   https://user-images.githubusercontent.com/72704839/208283636-5c082381-7b55-4ef2-9d3d-9ce2c053cc8c.mp4
+   
+   This is a NFT Minting Website built using React,Ethers,Hardhat so basically i have used smart contracts to provide conditions for the transaction that needs to
+   be executed and also we have made using of Ethers to work with the ethereum technology and also to enable peer-to-peer transaction using metamask and also i have 
+   made use of hardhat which makes it easy to work with ethereum while considering flexibility and quicken up things since it consists of different components for        editing, compiling, debugging and deploying your smart contracts and dApps, all of which work together to create a complete development environment.
+   
+   Make sure you have a metamask account in order to do that use ganache so that it can create fake accounts with fake ethers WARNING!!!!!! DO NOT USE REAL ETHER FOR
+   THIS PROJECT and then connect it to metamask so that you can work with transaction and also make sure you install hardhat tutorials are already available in google,
+   YouTube make use of it.
+   
+   If Any Queries,
+   
+   Email => amaanullah60@gmail.com
+   
+   
+                                                                      KUDOS!!!!
+
+
+HAVE A LOOK HOW TO GET STARTED!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
